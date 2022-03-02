@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-spacex-archive/static/css/main.207ba504.css",
+    "main.js": "/react-spacex-archive/static/js/main.df4db594.js",
+    "static/media/vt323-all-400-normal.woff": "/react-spacex-archive/static/media/vt323-all-400-normal.e2f1761188760cc5bcfe.woff",
+    "static/media/vt323-latin-400-normal.woff2": "/react-spacex-archive/static/media/vt323-latin-400-normal.215cd3bafbd733f2843c.woff2",
+    "static/media/vt323-latin-ext-400-normal.woff2": "/react-spacex-archive/static/media/vt323-latin-ext-400-normal.245b71a0db82a4291250.woff2",
+    "static/media/vt323-vietnamese-400-normal.woff2": "/react-spacex-archive/static/media/vt323-vietnamese-400-normal.c92c9b2a35a6ff3bfc18.woff2",
+    "index.html": "/react-spacex-archive/index.html",
+    "main.207ba504.css.map": "/react-spacex-archive/static/css/main.207ba504.css.map",
+    "main.df4db594.js.map": "/react-spacex-archive/static/js/main.df4db594.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207ba504.css",
+    "static/js/main.df4db594.js"
+  ]
+}
